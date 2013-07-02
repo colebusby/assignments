@@ -1,0 +1,3 @@
+An array stays in the order in which it was entered.
+
+A hash does not maintain an order, but assigns keys to values so that the values can still be found.
